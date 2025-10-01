@@ -1,0 +1,5 @@
+varNumero = int(input("digite seu numero"))
+if varNumero % 2 != 0:
+  print("seu numero é impar")
+else:
+  print("seu numero é par")
